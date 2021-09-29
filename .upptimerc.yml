@@ -1,0 +1,7 @@
+owner: 0ur0b0r0s # GitHub username
+repo: upptime_test # GitHub repository name
+sites: # List of endpoints to track
+  - name: Elos
+    url: https://h.elos.dev
+status-website: # Status website (optional)
+  cname: h.elos.dev # Custom domain CNAME
